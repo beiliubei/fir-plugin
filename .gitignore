@@ -1,5 +1,9 @@
 *.class
-
+fir/fir.iml
+fir/fir.ipr
+fir/fir.iws
+fir/target
+fir/work
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
